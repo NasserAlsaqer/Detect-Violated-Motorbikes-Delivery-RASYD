@@ -182,6 +182,8 @@ pip install transformers opencv-python Pillow smtplib email torch datasets ultra
 
 
 ## TEAM
+- [![Github](https://img.shields.io/badge/Github-Nasser%20Alsaqer-181717?style=flat-square&logo=github)](https://github.com/NasserAlsaqer) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nasser%20Alsaqer-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nasser-alsaqer/)
 
 - [![Github](https://img.shields.io/badge/Github-Khaled%20Alduwaysan-181717?style=flat-square&logo=github)](https://github.com/Duwaysan) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20Alduwaysan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kduwaysan/)
@@ -189,8 +191,7 @@ pip install transformers opencv-python Pillow smtplib email torch datasets ultra
 - [![Github](https://img.shields.io/badge/Github-Abdulrahman%20Alghamdi-181717?style=flat-square&logo=github)](https://github.com/AbdulrhmanBakrgh) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman%20Alghamdi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdulrahman-bakr-3a2895236/)
 
-- [![Github](https://img.shields.io/badge/Github-Nasser%20Alsaqer-181717?style=flat-square&logo=github)](https://github.com/NasserAlsaqer) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nasser%20Alsaqer-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nasser-alsaqer/)
+
 
 - [![Github](https://img.shields.io/badge/Github-Fares%20Altoukhi-181717?style=flat-square&logo=github)](https://github.com/TheKnight909) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares%20Altoukhi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fares-altoukhi/)

@@ -1,5 +1,4 @@
-# Detect-Violated-Motorbikes-Delivery-RASYD
-SDAIA T5 bootcamp capstone project
+
 ---
 
 ## License Plate Detection and Traffic Violation Reporting System

@@ -198,4 +198,3 @@ pip install transformers opencv-python Pillow smtplib email torch datasets ultra
 
 - [![Github](https://img.shields.io/badge/Github-Alhanouf%20Alhumid-181717?style=flat-square&logo=github)](https://github.com/alhanoufalh) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alhanouf%20Alhumid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alhanouf-alhumid-40a7391b0/?originalSubdomain=sa)
-

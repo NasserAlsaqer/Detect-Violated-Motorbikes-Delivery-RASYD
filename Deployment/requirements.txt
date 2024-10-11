@@ -1,0 +1,12 @@
+torch
+ultralytics
+transformers
+streamlit
+opencv-python
+numpy
+Pillow
+huggingface-hub
+verovio
+tiktoken
+streamlit-webrtc
+python-dotenv

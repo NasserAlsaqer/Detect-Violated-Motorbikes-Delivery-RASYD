@@ -177,6 +177,20 @@ You can install the necessary packages using pip:
 ```bash
 pip install transformers opencv-python Pillow smtplib email torch datasets ultralytics numpy matplotlib
 
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the project, please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes with descriptive messages.
+- Open a pull request to the `main` branch.
+
+### Areas to Contribute:
+- **Enhancing OCR Detection**: Help improve the accuracy of detecting license plates, especially for challenging lighting conditions and different plate formats.
+- **System of Database**: Contribute to enhancing the database integration, especially with improving the search efficiency for license plate violations.
+- **Violation Value Integration**: Add functionality to assign monetary or point-based penalties for each type of violation detected by the system.
+- **Automating Region of Interest (ROI) Detection**: Work on optimizing the YOLO model to automatically set and adjust regions of interest based on different traffic conditions.
 
 
 

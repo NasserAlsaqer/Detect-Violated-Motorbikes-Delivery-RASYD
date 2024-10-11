@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Helmet', 'License_plate', 'MotorbikeDelivery', 'MotorbikeSport', 'No_Helmet', 'Person']
+
+roboflow:
+  workspace: motorbikedelivery
+  project: motorbikedelivery_2.0
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/motorbikedelivery/motorbikedelivery_2.0/dataset/8

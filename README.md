@@ -15,6 +15,7 @@ This project implements an end-to-end system for detecting traffic violations an
 - [Process Overview](#process-overview)
 - [Dataset](#dataset)
 - [Demo](#demo)
+- [Evaluation](#Evaluation)
 - [Deployment](#deployment)
 - [Key Features](#key-features)
 - [Techniques and Libraries Used](#techniques-and-libraries-used)

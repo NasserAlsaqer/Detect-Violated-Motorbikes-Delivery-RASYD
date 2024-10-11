@@ -176,6 +176,7 @@ You can install the necessary packages using pip:
 
 ```bash
 pip install transformers opencv-python Pillow smtplib email torch datasets ultralytics numpy matplotlib
+```
 
 ## Contributing
 
@@ -191,7 +192,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 - **System of Database**: Contribute to enhancing the database integration, especially with improving the search efficiency for license plate violations.
 - **Violation Value Integration**: Add functionality to assign monetary or point-based penalties for each type of violation detected by the system.
 - **Automating Region of Interest (ROI) Detection**: Work on optimizing the YOLO model to automatically set and adjust regions of interest based on different traffic conditions.
-
 
 
 ## TEAM

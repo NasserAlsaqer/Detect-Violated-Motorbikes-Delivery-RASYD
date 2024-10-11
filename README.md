@@ -47,6 +47,10 @@ The system detects traffic violations such as **No Helmet** and **Entering Red L
 
 ## Dataset
 
+You can access the dataset we used for motorbike delivery detection at the following link:
+
+[Motorbike Delivery Dataset 2.0 on Roboflow](https://universe.roboflow.com/motorbikedelivery/motorbikedelivery_2.0)
+
 The project began with a dataset of **2,814 source images**, which were manually annotated with **6 classes**:
 
 - **Motorbike Delivery**
@@ -55,6 +59,8 @@ The project began with a dataset of **2,814 source images**, which were manually
 - **No Helmet**
 - **Person**
 - **License Plate**
+
+then we generate the dataset to be 6772
 
 ### Dataset Split
 We split the dataset into **Train**, **Validation**, and **Test** sets:

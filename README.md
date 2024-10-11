@@ -20,6 +20,7 @@ This project implements an end-to-end system for detecting traffic violations an
 - [Key Features](#key-features)
 - [Techniques and Libraries Used](#techniques-and-libraries-used)
 - [Setup and Usage](#setup-and-usage)
+- [Tools](#Tools)
 - [Contributing](#Contributing)
 - [Team](#team)
 

@@ -1,4 +1,3 @@
-
 ---
 
 ## License Plate Detection and Traffic Violation Reporting System
@@ -99,6 +98,20 @@ The following preprocessing and augmentation techniques were applied to generate
 
 ---
 
+## Evaluation
+
+| Class             | mAP50  |
+|-------------------|--------|
+| **All**           | 0.711  |
+| **Helmet**        | 0.633  |
+| **License_plate** | 0.726  |
+| **MotorbikeDelivery** | 0.833  |
+| **MotorbikeSport**    | 0.895  |
+| **No_Helmet**     | 0.286  |
+| **Person**        | 0.817  |
+
+---
+
 ## Deployment
 
 [Try our model here](https://huggingface.co/spaces/TheKnight115/T5_final_project)
@@ -178,6 +191,19 @@ You can install the necessary packages using pip:
 ```bash
 pip install transformers opencv-python Pillow smtplib email torch datasets ultralytics numpy matplotlib
 ```
+## Tools
+
+- **Manage Dataset with [Roboflow](https://roboflow.com/)**:  
+  ![Roboflow](https://img.shields.io/badge/-Roboflow-purple?logo=roboflow&logoColor=white)
+  
+- **Build the User Interface using [Streamlit](https://streamlit.io/)**:  
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white)
+  
+- **Deploy on [Hugging Face Spaces](https://huggingface.co/spaces)**:  
+  ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-yellow?logo=huggingface&logoColor=white)
+  
+- **Collaboration on [GitHub](https://github.com/)**:  
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 
 ## Contributing
 

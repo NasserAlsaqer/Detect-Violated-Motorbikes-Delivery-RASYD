@@ -89,7 +89,7 @@ The following preprocessing and augmentation techniques were applied to generate
 [Watch the full system demo here](https://youtu.be/LgCqOEWqY0A?feature=shared)
 
 - **YOLOv8 Detection**: Detects motorbikes, helmets, and lanes in real time.
-- **OCR in Action**: Recognizes both Arabic and English characters from license plates.
+- **OCR in Action**: Recognizes English characters from license plates.
 - **Violation Detection**: Identifies and logs violations like "No Helmet" and "Entering Red Lane."
 - **Email Notification**: Automatically sends a violation report with an attached image of the offense.
 
